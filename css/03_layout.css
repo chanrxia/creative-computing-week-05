@@ -44,6 +44,7 @@ body {
 
 .row {
   font-size: 36px;
+  height: 50%;
 }
 
 .box-1 {
@@ -56,4 +57,9 @@ body {
 
 .box-3 {
   background-color: #aaa;
+}
+
+.row 1 {
+  background-color: blue;
+
 }
